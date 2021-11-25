@@ -189,62 +189,51 @@
                             <div class="all-category">
                                 <h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIES</h3>
                                 <ul class="main-category">
-                                    <li><a href="#">New Arrivals <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <ul class="sub-category">
-                                            <li><a href="#">accessories</a></li>
-                                            <li><a href="#">best selling</a></li>
-                                            <li><a href="#">top 100 offer</a></li>
-                                            <li><a href="#">sunglass</a></li>
-                                            <li><a href="#">watch</a></li>
-                                            <li><a href="#">man’s product</a></li>
-                                            <li><a href="#">ladies</a></li>
-                                            <li><a href="#">westrn dress</a></li>
-                                            <li><a href="#">denim </a></li>
-                                        </ul>
+
                                     </li>
                                     <li class="main-mega"><a href="#">best selling <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <ul class="mega-menu">
                                             <li class="single-menu">
-                                                <a href="#" class="title-link">Shop Kid's</a>
+                                                <a href="#" class="title-link">Apple Iphone 13</a>
                                                 <div class="image">
-                                                    <img src="https://via.placeholder.com/225x155" alt="#">
+                                                    <img src="<?= base_url() ?>/informasi/images/ip12.jpg" alt="#">
                                                 </div>
                                                 <div class="inner-link">
-                                                    <a href="#">Kids Toys</a>
-                                                    <a href="#">Kids Travel Car</a>
-                                                    <a href="#">Kids Color Shape</a>
-                                                    <a href="#">Kids Tent</a>
+                                                    <a href="#">Apple Watch</a>
+                                                    <!-- <a href="#">Airpod</a> -->
+                                                    <a href="#">Case</a>
+                                                    <a href="#">Charger</a>
                                                 </div>
                                             </li>
                                             <li class="single-menu">
-                                                <a href="#" class="title-link">Shop Men's</a>
+                                                <a href="#" class="title-link">Apple Iphone 13</a>
                                                 <div class="image">
-                                                    <img src="https://via.placeholder.com/225x155" alt="#">
+                                                    <img src="<?= base_url() ?>/informasi/images/ip13.jpg" alt="#">
                                                 </div>
                                                 <div class="inner-link">
-                                                    <a href="#">Watch</a>
-                                                    <a href="#">T-shirt</a>
-                                                    <a href="#">Hoodies</a>
-                                                    <a href="#">Formal Pant</a>
+                                                    <!-- <a href="#">Apple Watch</a> -->
+                                                    <a href="#">Airpod</a>
+                                                    <a href="#">Case</a>
+                                                    <a href="#">Charger</a>
                                                 </div>
                                             </li>
                                             <li class="single-menu">
-                                                <a href="#" class="title-link">Shop Women's</a>
+                                                <a href="#" class="title-link">Asus ROG Phone 3</a>
                                                 <div class="image">
-                                                    <img src="https://via.placeholder.com/225x155" alt="#">
+                                                    <img src="<?= base_url() ?>/informasi/images/asusrog.jpeg" alt="#">
                                                 </div>
                                                 <div class="inner-link">
-                                                    <a href="#">Ladies Shirt</a>
-                                                    <a href="#">Ladies Frog</a>
-                                                    <a href="#">Ladies Sun Glass</a>
-                                                    <a href="#">Ladies Watch</a>
+                                                    <a href="#">Headset</a>
+                                                    <a href="#">Case</a>
+                                                    <a href="#">Charger</a>
+                                                    <!-- <a href="#">Ladies Watch</a> -->
                                                 </div>
                                             </li>
                                         </ul>
                                     </li>
                                     <li><a href="#">accessories</a></li>
-                                    <li><a href="#">top 100 offer</a></li>
-                                    <li><a href="#">sunglass</a></li>
+                                    <li><a href="#">apple</a></li>
+                                    <li><a href="#">asus</a></li>
                                     <li><a href="#">watch</a></li>
                                     <li><a href="#">man’s product</a></li>
                                     <li><a href="#">ladies</a></li>
