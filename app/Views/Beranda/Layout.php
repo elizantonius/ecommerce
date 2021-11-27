@@ -287,7 +287,9 @@
         <!-- Single Slider -->
         <div class="single-slider">
             <div class="container">
+
                 <div class="row no-gutters">
+                    <img src="<?= base_url() ?>/informasi/images/utama1.jpg" class="d-block w-100" alt="...">
                     <div class="col-lg-9 offset-lg-3 col-12">
                         <div class="text-inner">
                             <div class="row">
@@ -297,6 +299,7 @@
                                         <p>Maboriosam in a nesciung eget magnae <br> dapibus disting tloctio in the find it pereri <br> odiy maboriosm.</p>
                                         <div class="button">
                                             <a href="#" class="btn">Shop Now!</a>
+
                                         </div>
                                     </div>
                                 </div>
