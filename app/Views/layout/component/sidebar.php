@@ -45,10 +45,10 @@
                     </a>
 
                 <li class="nav-item">
-                    <a href="<?= base_url() ?>/Admin/DataProduk" class="nav-link">
+                    <a href="<?= base_url() ?>/Admin/DataKategori" class="nav-link">
                         <i class="nav-icon fas fa-keyboard"></i>
                         <p>
-                            Input Data Produk
+                            Input Kategori
                             <!-- <span class="right badge badge-danger">New</span> -->
                         </p>
                     </a>

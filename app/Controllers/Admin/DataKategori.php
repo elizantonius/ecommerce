@@ -4,16 +4,16 @@ namespace App\Controllers\Admin;
 
 use App\Controllers\BaseController;
 
-class DataProduk extends BaseController
+class DataKategori extends BaseController
 {
     public function index()
     {
 
-        $data['Judul'] = 'Input Data Produk';
+        $data['Judul'] = 'Input Kategori';
         echo view('layout/component/header');
         echo view('layout/component/sidebar');
         echo view('layout/component/navbar');
-        echo view('layout/dataproduk', $data);
+        echo view('layout/datakategori', $data);
         echo view('layout/component/footer');
     }
 }

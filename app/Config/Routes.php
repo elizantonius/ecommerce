@@ -33,9 +33,9 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
-//Admin
+//Admin ROOT
 $routes->resource('Admin/home');
-$routes->resource('Admin/DataProduk');
+$routes->resource('Admin/DataKategori');
 
 
 $routes->resource('Login');

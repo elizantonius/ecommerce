@@ -140,8 +140,20 @@
                             <div class="sinlge-bar">
                                 <a href="#" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
                             </div>
-                            <div class="sinlge-bar">
+                            <div class="sinlge-bar shopping">
                                 <a href="#" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
+                                <!-- Shopping Item -->
+                                <div class="shopping-item">
+                                    <a href="#">Logout</a>
+                                    <hr />
+
+                                    <div class="bottom">
+
+                                        <a href="#" class="btn animate">Buka Toko</a>
+                                    </div>
+                                </div>
+                                <!--/ End Shopping Item -->
+
                             </div>
                             <div class="sinlge-bar shopping">
                                 <a href="#" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
@@ -187,7 +199,7 @@
                     <div class="row">
                         <div class="col-lg-3">
                             <div class="all-category">
-                                <h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIES</h3>
+                                <h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="false"></i>CATEGORIES</h3>
                                 <ul class="main-category">
 
                                     </li>
@@ -2107,7 +2119,7 @@
                         <!-- Single Widget -->
                         <div class="single-footer about">
                             <div class="logo">
-                                <a href="index.html"><img src="images/logo2.png" alt="#"></a>
+                                <a href="index.html"><img src="<? base_url() ?>informasi/images/logo2.png" alt="#"></a>
                             </div>
                             <p class="text">Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
                             <p class="call">Got Question? Call us 24/7<span><a href="tel:123456789">+0123 456 789</a></span></p>
@@ -2175,12 +2187,12 @@
                     <div class="row">
                         <div class="col-lg-6 col-12">
                             <div class="left">
-                                <p>Copyright © 2020 <a href="http://www.wpthemesgrid.com" target="_blank">Wpthemesgrid</a> - All Rights Reserved.</p>
+                                <p>Copyright © 2021 Ecommerce SMART - Rights Reserved.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-12">
                             <div class="right">
-                                <img src="images/payments.png" alt="#">
+                                <img src="<? base_url() ?>informasi/images/payments.png" alt="#">
                             </div>
                         </div>
                     </div>
